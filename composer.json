@@ -1,0 +1,14 @@
+{
+    "name": "claudia/escuela",
+    "description": "sistema escolar",
+    "authors": [
+        {
+            "name": "Isaac del Angel",
+            "email": "juanitokamykaze240@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.14",
+        "illuminate/events": "^8.14"
+    }
+}
